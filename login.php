@@ -108,10 +108,10 @@
             </div>
             <div class="btmright d-inline-block float-right ">
                 <h5 class="d-inline-block">We are Social:</h5>
-                <a href="https://www.facebook.com/profile.php?id=100004155015725" class="facebook"><i class="fa fa-facebook-f"></i></a>
-                <a href="https://www.instagram.com/sujeetm19/"><i class="fab fa-instagram"></i></a>
-                <a href="https://www.linkedin.com/in/vikas-yadav-349891137/"><i class="fab fa-linkedin"></i></a>
-                <a href="https://www.youtube.com/channel/UCw9lkGbB0JgQVDkbo6RBcbA?view_as=subscriber"><i class="fab fa-youtube"></i></a>
+                <a href="https://www.facebook.com/profile.php?id=" class="facebook"><i class="fa fa-facebook-f"></i></a>
+                <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.linkedin.com/in//"><i class="fab fa-linkedin"></i></a>
+                <a href="https://www.youtube.com/channel/?view_as=subscriber"><i class="fab fa-youtube"></i></a>
             </div>
         </div>
     </div>
